@@ -57,5 +57,6 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="To include the Snake game animation in your GitHub profile, make sure that the markdown is correctly formatted and the link to the Snake SVG file is valid. Here's the updated script with the Snake game animation included at the end:
+![Snake animation](https://github.com/yasseeerrr/workflows/blob/output/github-contribution-grid-snake.svg)
 
 ```markdown
